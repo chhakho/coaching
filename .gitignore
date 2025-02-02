@@ -1,0 +1,32 @@
+# Node modules
+node_modules/
+
+# Next.js build output
+frontend/.next/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+logs/
+*.log
+
+# Coverage directory
+coverage/
+backend/coverage/
+
+# Database files
+backend/config/dev.db
+
+# Custom build output
+dist/
+
+# Mac OS metadata
+.DS_Store
+
+# Visual Studio Code settings
+.vscode/
